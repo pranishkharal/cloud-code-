@@ -36,7 +36,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
-            libasound2 \
+            libasound2t64 \
             libatk1.0-0 \
             libc6 \
             libcairo2 \
@@ -116,7 +116,7 @@ jobs:
       - name: Install FFmpeg & Chrome Linux dependencies for audio rendering
         run: |
           sudo apt-get update
-          sudo apt-get install -y ffmpeg libasound2 libnss3 libgbm1
+          sudo apt-get install -y ffmpeg libasound2t64 libnss3 libgbm1
 
       - name: Clean install npm dependencies
         run: npm ci
