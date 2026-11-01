@@ -14,7 +14,7 @@ jobs:
   # JOB 1: Parallel Video Chunk Render Matrix (900 frames per job, muted)
   # =========================================================================
   render-chunks:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       matrix:
@@ -101,7 +101,7 @@ jobs:
   # =========================================================================
   merge-and-finish:
     needs: render-chunks
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
 
     steps:
       - name: Checkout repository code
