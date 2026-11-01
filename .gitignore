@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json.bak
+
+# Build / Output videos and stills
+out/
+dist/
+*.mp4
+*.webm
+*.png
+*.jpg
+*.wav
+
+# Remotion cache & temporary files
+.remotion/
+chrome-headless-shell/
+
+# Environment and sensitive keys
+.env
+.env.local
+*.log
+npm-debug.log*
+
+# OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "Would A Great White Survive The Devonian Ocean?",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "voiceover": "audio/vo.mp3",
+    "music": "audio/music/drone-pad.mp3",
+    "ambience": "audio/ambience/ocean-abyss.mp3"
+  },
+  "scenes": [
+    {
+      "id": "scene-1",
+      "type": "HookScene",
+      "durationInFrames": 270,
+      "era": "HOLOCENE • MODERN ERA",
+      "depth": "Surface to 1,200m",
+      "title": "COULD A GREAT WHITE SURVIVE",
+      "subtitle": "IN PREHISTORIC OCEANS?",
+      "tag": "PREHISTORIC SURVIVAL SIMULATION",
+      "events": [
+        { "atWord": 0, "sfx": "audio/sfx/era-whoosh.mp3", "volume": 0.7 },
+        { "atWord": 5, "sfx": "audio/sfx/ping.mp3", "volume": 0.5 }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "type": "CreatureIntroScene",
+      "durationInFrames": 390,
+      "era": "DEVONIAN PERIOD • 370 MYA",
+      "depth": "Ancient Coastal Shelves",
+      "creature": {
+        "name": "DUNKLEOSTEUS",
+        "scientificName": "Dunkleosteus terrelli",
+        "era": "Late Devonian (382 - 358 MYA)",
+        "role": "Apex Armored Placoderm",
+        "image": "images/dunkleosteus.png",
+        "stats": [
+          { "label": "Length", "value": "10 METERS", "percent": 90, "color": "#ef4444" },
+          { "label": "Weight", "value": "4.0 TONNES", "percent": 85, "color": "#ef4444" },
+          { "label": "Bite Force", "value": "5,300 PSI", "percent": 96, "color": "#ef4444" },
+          { "label": "Armor", "value": "SOLID BONE PLATES", "percent": 100, "color": "#ef4444" }
+        ]
+      },
+      "events": [
+        { "atWord": 20, "sfx": "audio/sfx/era-whoosh.mp3", "volume": 0.6 },
+        { "atWord": 28, "sfx": "audio/sfx/click.mp3", "volume": 0.6 }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "type": "SizeCompareScene",
+      "durationInFrames": 450,
+      "era": "DEVONIAN CLASH • SCALE ANALYSIS",
+      "depth": "Pelagic Encounter",
+      "heading": "SCALE & MASS COMPARISON",
+      "leftCreature": {
+        "name": "GREAT WHITE SHARK",
+        "lengthText": "5.5 Meters",
+        "weightText": "1.8 Tonnes",
+        "scaleFactor": 0.58,
+        "silhouette": "images/great_white_silhouette.png",
+        "accentColor": "#38bdf8"
+      },
+      "rightCreature": {
+        "name": "DUNKLEOSTEUS",
+        "lengthText": "10.0 Meters",
+        "weightText": "4.0 Tonnes",
+        "scaleFactor": 1.0,
+        "silhouette": "images/dunkleosteus_silhouette.png",
+        "accentColor": "#ef4444"
+      },
+      "events": [
+        { "atWord": 60, "sfx": "audio/sfx/rise.mp3", "volume": 0.65 },
+        { "atWord": 80, "sfx": "audio/sfx/tick.mp3", "volume": 0.5 }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "type": "VerdictScene",
+      "durationInFrames": 690,
+      "era": "DEVONIAN EVALUATION SUMMARY",
+      "depth": "Simulation Complete",
+      "verdictType": "SURVIVES",
+      "badgeText": "SURVIVES (NARROWLY)",
+      "badgeColor": "#fbbf24",
+      "reasonTitle": "TACTICAL SPEED & PELAGIC DEPTH SANCTUARY",
+      "reason": "While Dunkleosteus possesses impenetrable bone armor and a crushing bite that would instantly destroy a shark in close quarters, the Great White holds overwhelming agility, higher cruising speed, and endothermic endurance to easily avoid confrontation and feed on abundant soft prey.",
+      "events": [
+        { "atWord": 140, "sfx": "audio/sfx/stamp-hit.mp3", "volume": 1.0 },
+        { "atWord": 145, "sfx": "audio/sfx/ping.mp3", "volume": 0.5 }
+      ]
+    }
+  ]
+}

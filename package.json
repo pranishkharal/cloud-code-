@@ -1,0 +1,39 @@
+{
+  "name": "video-engine",
+  "version": "1.0.0",
+  "description": "Programmatic 2D video generation using Remotion, Three.js, and GSAP",
+  "main": "index.js",
+  "scripts": {
+    "start": "remotion studio src/index.jsx",
+    "build": "remotion render src/index.jsx DocumentaryTemplate out/final.mp4 --concurrency=8",
+    "preview": "remotion studio src/index.jsx",
+    "render": "remotion render src/index.jsx DocumentaryTemplate out/final.mp4 --concurrency=8",
+    "render:fast": "remotion render src/index.jsx DocumentaryTemplate out/preview.mp4 --scale=0.5 --concurrency=8",
+    "render:loudnorm": "node scripts/render-and-loudnorm.js",
+    "gen:audio": "python generate_sound_design.py"
+  },
+  "keywords": [
+    "video",
+    "remotion",
+    "documentary",
+    "depth-theory",
+    "animation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/fiber": "8.18.0",
+    "@remotion/cli": "^4.0.539",
+    "@remotion/paths": "^4.0.539",
+    "@remotion/renderer": "^4.0.539",
+    "@remotion/three": "^4.0.539",
+    "@remotion/transitions": "^4.0.539",
+    "@types/three": "^0.182.0",
+    "gsap": "^3.14.2",
+    "js-yaml": "^4.1.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "^4.0.539",
+    "three": "^0.182.0"
+  }
+}

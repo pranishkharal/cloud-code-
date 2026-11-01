@@ -1,0 +1,1352 @@
+[
+  {
+    "word": "Could",
+    "start": 0.0,
+    "end": 0.32,
+    "startFrame": 0,
+    "endFrame": 10,
+    "sentenceIndex": 0,
+    "probability": 0.464
+  },
+  {
+    "word": "a",
+    "start": 0.32,
+    "end": 0.42,
+    "startFrame": 10,
+    "endFrame": 13,
+    "sentenceIndex": 0,
+    "probability": 0.986
+  },
+  {
+    "word": "modern",
+    "start": 0.42,
+    "end": 0.68,
+    "startFrame": 13,
+    "endFrame": 20,
+    "sentenceIndex": 0,
+    "probability": 0.997
+  },
+  {
+    "word": "great",
+    "start": 0.68,
+    "end": 1.08,
+    "startFrame": 20,
+    "endFrame": 32,
+    "sentenceIndex": 0,
+    "probability": 0.599
+  },
+  {
+    "word": "white",
+    "start": 1.08,
+    "end": 1.34,
+    "startFrame": 32,
+    "endFrame": 40,
+    "sentenceIndex": 0,
+    "probability": 0.892
+  },
+  {
+    "word": "shark",
+    "start": 1.34,
+    "end": 1.58,
+    "startFrame": 40,
+    "endFrame": 47,
+    "sentenceIndex": 0,
+    "probability": 0.985
+  },
+  {
+    "word": "survive",
+    "start": 1.58,
+    "end": 2.06,
+    "startFrame": 47,
+    "endFrame": 62,
+    "sentenceIndex": 0,
+    "probability": 0.994
+  },
+  {
+    "word": "in",
+    "start": 2.06,
+    "end": 2.34,
+    "startFrame": 62,
+    "endFrame": 70,
+    "sentenceIndex": 0,
+    "probability": 0.987
+  },
+  {
+    "word": "the",
+    "start": 2.34,
+    "end": 2.44,
+    "startFrame": 70,
+    "endFrame": 73,
+    "sentenceIndex": 0,
+    "probability": 0.995
+  },
+  {
+    "word": "savage",
+    "start": 2.44,
+    "end": 2.74,
+    "startFrame": 73,
+    "endFrame": 82,
+    "sentenceIndex": 0,
+    "probability": 0.688
+  },
+  {
+    "word": "prehistoric",
+    "start": 2.74,
+    "end": 3.46,
+    "startFrame": 82,
+    "endFrame": 104,
+    "sentenceIndex": 0,
+    "probability": 0.982
+  },
+  {
+    "word": "oceans?",
+    "start": 3.46,
+    "end": 3.96,
+    "startFrame": 104,
+    "endFrame": 119,
+    "sentenceIndex": 0,
+    "probability": 0.985
+  },
+  {
+    "word": "Let",
+    "start": 4.54,
+    "end": 5.22,
+    "startFrame": 136,
+    "endFrame": 157,
+    "sentenceIndex": 1,
+    "probability": 0.975
+  },
+  {
+    "word": "us",
+    "start": 5.22,
+    "end": 5.36,
+    "startFrame": 157,
+    "endFrame": 161,
+    "sentenceIndex": 1,
+    "probability": 0.995
+  },
+  {
+    "word": "travel",
+    "start": 5.36,
+    "end": 5.7,
+    "startFrame": 161,
+    "endFrame": 171,
+    "sentenceIndex": 1,
+    "probability": 0.999
+  },
+  {
+    "word": "back",
+    "start": 5.7,
+    "end": 5.94,
+    "startFrame": 171,
+    "endFrame": 178,
+    "sentenceIndex": 1,
+    "probability": 0.995
+  },
+  {
+    "word": "370",
+    "start": 5.94,
+    "end": 6.98,
+    "startFrame": 178,
+    "endFrame": 209,
+    "sentenceIndex": 1,
+    "probability": 0.901
+  },
+  {
+    "word": "million",
+    "start": 6.98,
+    "end": 7.36,
+    "startFrame": 209,
+    "endFrame": 221,
+    "sentenceIndex": 1,
+    "probability": 0.985
+  },
+  {
+    "word": "years",
+    "start": 7.36,
+    "end": 7.74,
+    "startFrame": 221,
+    "endFrame": 232,
+    "sentenceIndex": 1,
+    "probability": 0.995
+  },
+  {
+    "word": "into",
+    "start": 7.74,
+    "end": 7.98,
+    "startFrame": 232,
+    "endFrame": 239,
+    "sentenceIndex": 1,
+    "probability": 0.99
+  },
+  {
+    "word": "the",
+    "start": 7.98,
+    "end": 8.14,
+    "startFrame": 239,
+    "endFrame": 244,
+    "sentenceIndex": 1,
+    "probability": 0.993
+  },
+  {
+    "word": "Devonian",
+    "start": 8.14,
+    "end": 8.48,
+    "startFrame": 244,
+    "endFrame": 254,
+    "sentenceIndex": 1,
+    "probability": 0.829
+  },
+  {
+    "word": "era.",
+    "start": 8.48,
+    "end": 8.9,
+    "startFrame": 254,
+    "endFrame": 267,
+    "sentenceIndex": 1,
+    "probability": 0.622
+  },
+  {
+    "word": "In",
+    "start": 9.7,
+    "end": 10.08,
+    "startFrame": 291,
+    "endFrame": 302,
+    "sentenceIndex": 2,
+    "probability": 0.979
+  },
+  {
+    "word": "these",
+    "start": 10.08,
+    "end": 10.36,
+    "startFrame": 302,
+    "endFrame": 311,
+    "sentenceIndex": 2,
+    "probability": 0.996
+  },
+  {
+    "word": "ancient",
+    "start": 10.36,
+    "end": 10.76,
+    "startFrame": 311,
+    "endFrame": 323,
+    "sentenceIndex": 2,
+    "probability": 0.998
+  },
+  {
+    "word": "murky",
+    "start": 10.76,
+    "end": 11.08,
+    "startFrame": 323,
+    "endFrame": 332,
+    "sentenceIndex": 2,
+    "probability": 0.96
+  },
+  {
+    "word": "depths,",
+    "start": 11.08,
+    "end": 11.46,
+    "startFrame": 332,
+    "endFrame": 344,
+    "sentenceIndex": 2,
+    "probability": 0.995
+  },
+  {
+    "word": "the",
+    "start": 11.88,
+    "end": 11.96,
+    "startFrame": 356,
+    "endFrame": 359,
+    "sentenceIndex": 2,
+    "probability": 0.987
+  },
+  {
+    "word": "unchallenged",
+    "start": 11.96,
+    "end": 12.74,
+    "startFrame": 359,
+    "endFrame": 382,
+    "sentenceIndex": 2,
+    "probability": 0.982
+  },
+  {
+    "word": "sovereign",
+    "start": 12.74,
+    "end": 13.08,
+    "startFrame": 382,
+    "endFrame": 392,
+    "sentenceIndex": 2,
+    "probability": 0.829
+  },
+  {
+    "word": "was",
+    "start": 13.08,
+    "end": 13.36,
+    "startFrame": 392,
+    "endFrame": 401,
+    "sentenceIndex": 2,
+    "probability": 0.999
+  },
+  {
+    "word": "Dunkleastus.",
+    "start": 13.36,
+    "end": 14.2,
+    "startFrame": 401,
+    "endFrame": 426,
+    "sentenceIndex": 2,
+    "probability": 0.53
+  },
+  {
+    "word": "An",
+    "start": 14.98,
+    "end": 15.4,
+    "startFrame": 449,
+    "endFrame": 462,
+    "sentenceIndex": 3,
+    "probability": 0.981
+  },
+  {
+    "word": "armored",
+    "start": 15.4,
+    "end": 15.72,
+    "startFrame": 462,
+    "endFrame": 472,
+    "sentenceIndex": 3,
+    "probability": 0.899
+  },
+  {
+    "word": "placket",
+    "start": 15.72,
+    "end": 16.14,
+    "startFrame": 472,
+    "endFrame": 484,
+    "sentenceIndex": 3,
+    "probability": 0.617
+  },
+  {
+    "word": "arm",
+    "start": 16.14,
+    "end": 16.3,
+    "startFrame": 484,
+    "endFrame": 489,
+    "sentenceIndex": 3,
+    "probability": 0.187
+  },
+  {
+    "word": "growing",
+    "start": 16.3,
+    "end": 16.54,
+    "startFrame": 489,
+    "endFrame": 496,
+    "sentenceIndex": 3,
+    "probability": 0.993
+  },
+  {
+    "word": "up",
+    "start": 16.54,
+    "end": 16.78,
+    "startFrame": 496,
+    "endFrame": 503,
+    "sentenceIndex": 3,
+    "probability": 0.999
+  },
+  {
+    "word": "to",
+    "start": 16.78,
+    "end": 16.94,
+    "startFrame": 503,
+    "endFrame": 508,
+    "sentenceIndex": 3,
+    "probability": 0.994
+  },
+  {
+    "word": "10",
+    "start": 16.94,
+    "end": 17.24,
+    "startFrame": 508,
+    "endFrame": 517,
+    "sentenceIndex": 3,
+    "probability": 0.799
+  },
+  {
+    "word": "meters",
+    "start": 17.24,
+    "end": 17.5,
+    "startFrame": 517,
+    "endFrame": 525,
+    "sentenceIndex": 3,
+    "probability": 0.787
+  },
+  {
+    "word": "long,",
+    "start": 17.5,
+    "end": 17.9,
+    "startFrame": 525,
+    "endFrame": 537,
+    "sentenceIndex": 3,
+    "probability": 0.981
+  },
+  {
+    "word": "encased",
+    "start": 18.34,
+    "end": 18.82,
+    "startFrame": 550,
+    "endFrame": 565,
+    "sentenceIndex": 3,
+    "probability": 0.961
+  },
+  {
+    "word": "in",
+    "start": 18.82,
+    "end": 18.94,
+    "startFrame": 565,
+    "endFrame": 568,
+    "sentenceIndex": 3,
+    "probability": 0.999
+  },
+  {
+    "word": "solid",
+    "start": 18.94,
+    "end": 19.28,
+    "startFrame": 568,
+    "endFrame": 578,
+    "sentenceIndex": 3,
+    "probability": 0.997
+  },
+  {
+    "word": "bone",
+    "start": 19.28,
+    "end": 19.6,
+    "startFrame": 578,
+    "endFrame": 588,
+    "sentenceIndex": 3,
+    "probability": 0.976
+  },
+  {
+    "word": "plating.",
+    "start": 19.6,
+    "end": 20.0,
+    "startFrame": 588,
+    "endFrame": 600,
+    "sentenceIndex": 3,
+    "probability": 0.943
+  },
+  {
+    "word": "Its",
+    "start": 20.84,
+    "end": 21.28,
+    "startFrame": 625,
+    "endFrame": 638,
+    "sentenceIndex": 4,
+    "probability": 0.734
+  },
+  {
+    "word": "self",
+    "start": 21.28,
+    "end": 21.5,
+    "startFrame": 638,
+    "endFrame": 645,
+    "sentenceIndex": 4,
+    "probability": 0.989
+  },
+  {
+    "word": "-sharpening",
+    "start": 21.5,
+    "end": 21.96,
+    "startFrame": 645,
+    "endFrame": 659,
+    "sentenceIndex": 4,
+    "probability": 0.855
+  },
+  {
+    "word": "dental",
+    "start": 21.96,
+    "end": 22.26,
+    "startFrame": 659,
+    "endFrame": 668,
+    "sentenceIndex": 4,
+    "probability": 0.986
+  },
+  {
+    "word": "blade",
+    "start": 22.26,
+    "end": 22.56,
+    "startFrame": 668,
+    "endFrame": 677,
+    "sentenceIndex": 4,
+    "probability": 0.791
+  },
+  {
+    "word": "snapped",
+    "start": 22.56,
+    "end": 23.02,
+    "startFrame": 677,
+    "endFrame": 691,
+    "sentenceIndex": 4,
+    "probability": 0.996
+  },
+  {
+    "word": "shut",
+    "start": 23.02,
+    "end": 23.44,
+    "startFrame": 691,
+    "endFrame": 703,
+    "sentenceIndex": 4,
+    "probability": 0.989
+  },
+  {
+    "word": "with",
+    "start": 23.44,
+    "end": 23.66,
+    "startFrame": 703,
+    "endFrame": 710,
+    "sentenceIndex": 4,
+    "probability": 0.995
+  },
+  {
+    "word": "an",
+    "start": 23.66,
+    "end": 23.8,
+    "startFrame": 710,
+    "endFrame": 714,
+    "sentenceIndex": 4,
+    "probability": 0.997
+  },
+  {
+    "word": "earth",
+    "start": 23.8,
+    "end": 24.02,
+    "startFrame": 714,
+    "endFrame": 721,
+    "sentenceIndex": 4,
+    "probability": 0.928
+  },
+  {
+    "word": "shattering",
+    "start": 24.02,
+    "end": 24.4,
+    "startFrame": 721,
+    "endFrame": 732,
+    "sentenceIndex": 4,
+    "probability": 0.818
+  },
+  {
+    "word": "bite",
+    "start": 24.4,
+    "end": 24.68,
+    "startFrame": 732,
+    "endFrame": 740,
+    "sentenceIndex": 4,
+    "probability": 0.853
+  },
+  {
+    "word": "force",
+    "start": 24.68,
+    "end": 25.04,
+    "startFrame": 740,
+    "endFrame": 751,
+    "sentenceIndex": 4,
+    "probability": 0.969
+  },
+  {
+    "word": "of",
+    "start": 25.04,
+    "end": 25.26,
+    "startFrame": 751,
+    "endFrame": 758,
+    "sentenceIndex": 4,
+    "probability": 0.993
+  },
+  {
+    "word": "over",
+    "start": 25.26,
+    "end": 25.48,
+    "startFrame": 758,
+    "endFrame": 764,
+    "sentenceIndex": 4,
+    "probability": 0.995
+  },
+  {
+    "word": "5",
+    "start": 25.48,
+    "end": 25.9,
+    "startFrame": 764,
+    "endFrame": 777,
+    "sentenceIndex": 4,
+    "probability": 0.733
+  },
+  {
+    "word": ",000",
+    "start": 25.9,
+    "end": 26.34,
+    "startFrame": 777,
+    "endFrame": 790,
+    "sentenceIndex": 4,
+    "probability": 0.949
+  },
+  {
+    "word": "pounds",
+    "start": 26.34,
+    "end": 26.56,
+    "startFrame": 790,
+    "endFrame": 797,
+    "sentenceIndex": 4,
+    "probability": 0.86
+  },
+  {
+    "word": "per",
+    "start": 26.56,
+    "end": 26.84,
+    "startFrame": 797,
+    "endFrame": 805,
+    "sentenceIndex": 4,
+    "probability": 0.993
+  },
+  {
+    "word": "square",
+    "start": 26.84,
+    "end": 27.1,
+    "startFrame": 805,
+    "endFrame": 813,
+    "sentenceIndex": 5,
+    "probability": 0.828
+  },
+  {
+    "word": "inch.",
+    "start": 27.1,
+    "end": 27.56,
+    "startFrame": 813,
+    "endFrame": 827,
+    "sentenceIndex": 5,
+    "probability": 0.983
+  },
+  {
+    "word": "When",
+    "start": 28.46,
+    "end": 28.72,
+    "startFrame": 854,
+    "endFrame": 862,
+    "sentenceIndex": 5,
+    "probability": 0.98
+  },
+  {
+    "word": "placed",
+    "start": 28.72,
+    "end": 29.08,
+    "startFrame": 862,
+    "endFrame": 872,
+    "sentenceIndex": 5,
+    "probability": 0.998
+  },
+  {
+    "word": "directly",
+    "start": 29.08,
+    "end": 29.42,
+    "startFrame": 872,
+    "endFrame": 883,
+    "sentenceIndex": 5,
+    "probability": 0.999
+  },
+  {
+    "word": "alongside",
+    "start": 29.42,
+    "end": 30.12,
+    "startFrame": 883,
+    "endFrame": 904,
+    "sentenceIndex": 5,
+    "probability": 0.986
+  },
+  {
+    "word": "our",
+    "start": 30.12,
+    "end": 30.38,
+    "startFrame": 904,
+    "endFrame": 911,
+    "sentenceIndex": 5,
+    "probability": 0.995
+  },
+  {
+    "word": "modern",
+    "start": 30.38,
+    "end": 30.66,
+    "startFrame": 911,
+    "endFrame": 920,
+    "sentenceIndex": 5,
+    "probability": 0.966
+  },
+  {
+    "word": "champion,",
+    "start": 30.66,
+    "end": 31.2,
+    "startFrame": 920,
+    "endFrame": 936,
+    "sentenceIndex": 5,
+    "probability": 0.977
+  },
+  {
+    "word": "the",
+    "start": 31.56,
+    "end": 31.64,
+    "startFrame": 947,
+    "endFrame": 949,
+    "sentenceIndex": 5,
+    "probability": 0.993
+  },
+  {
+    "word": "size",
+    "start": 31.64,
+    "end": 31.9,
+    "startFrame": 949,
+    "endFrame": 957,
+    "sentenceIndex": 5,
+    "probability": 0.892
+  },
+  {
+    "word": "disparity",
+    "start": 31.9,
+    "end": 32.46,
+    "startFrame": 957,
+    "endFrame": 974,
+    "sentenceIndex": 5,
+    "probability": 0.99
+  },
+  {
+    "word": "is",
+    "start": 32.46,
+    "end": 32.82,
+    "startFrame": 974,
+    "endFrame": 985,
+    "sentenceIndex": 5,
+    "probability": 0.999
+  },
+  {
+    "word": "immediately",
+    "start": 32.82,
+    "end": 33.2,
+    "startFrame": 985,
+    "endFrame": 996,
+    "sentenceIndex": 5,
+    "probability": 0.997
+  },
+  {
+    "word": "striking.",
+    "start": 33.2,
+    "end": 33.76,
+    "startFrame": 996,
+    "endFrame": 1013,
+    "sentenceIndex": 5,
+    "probability": 0.999
+  },
+  {
+    "word": "The",
+    "start": 34.8,
+    "end": 35.04,
+    "startFrame": 1044,
+    "endFrame": 1051,
+    "sentenceIndex": 6,
+    "probability": 0.99
+  },
+  {
+    "word": "Dunkleastus",
+    "start": 35.04,
+    "end": 35.8,
+    "startFrame": 1051,
+    "endFrame": 1074,
+    "sentenceIndex": 6,
+    "probability": 0.543
+  },
+  {
+    "word": "outweighs",
+    "start": 35.8,
+    "end": 36.26,
+    "startFrame": 1074,
+    "endFrame": 1088,
+    "sentenceIndex": 6,
+    "probability": 0.897
+  },
+  {
+    "word": "are",
+    "start": 36.26,
+    "end": 36.44,
+    "startFrame": 1088,
+    "endFrame": 1093,
+    "sentenceIndex": 6,
+    "probability": 0.902
+  },
+  {
+    "word": "shark",
+    "start": 36.44,
+    "end": 36.76,
+    "startFrame": 1093,
+    "endFrame": 1103,
+    "sentenceIndex": 6,
+    "probability": 0.51
+  },
+  {
+    "word": "by",
+    "start": 36.76,
+    "end": 37.04,
+    "startFrame": 1103,
+    "endFrame": 1111,
+    "sentenceIndex": 6,
+    "probability": 0.674
+  },
+  {
+    "word": "more",
+    "start": 37.04,
+    "end": 37.28,
+    "startFrame": 1111,
+    "endFrame": 1118,
+    "sentenceIndex": 6,
+    "probability": 0.998
+  },
+  {
+    "word": "than",
+    "start": 37.28,
+    "end": 37.46,
+    "startFrame": 1118,
+    "endFrame": 1124,
+    "sentenceIndex": 6,
+    "probability": 0.998
+  },
+  {
+    "word": "three",
+    "start": 37.46,
+    "end": 37.76,
+    "startFrame": 1124,
+    "endFrame": 1133,
+    "sentenceIndex": 6,
+    "probability": 0.758
+  },
+  {
+    "word": "times,",
+    "start": 37.76,
+    "end": 38.2,
+    "startFrame": 1133,
+    "endFrame": 1146,
+    "sentenceIndex": 6,
+    "probability": 0.998
+  },
+  {
+    "word": "presenting",
+    "start": 38.56,
+    "end": 38.88,
+    "startFrame": 1157,
+    "endFrame": 1166,
+    "sentenceIndex": 6,
+    "probability": 0.996
+  },
+  {
+    "word": "an",
+    "start": 38.88,
+    "end": 39.1,
+    "startFrame": 1166,
+    "endFrame": 1173,
+    "sentenceIndex": 6,
+    "probability": 0.995
+  },
+  {
+    "word": "impenetrable",
+    "start": 39.1,
+    "end": 39.72,
+    "startFrame": 1173,
+    "endFrame": 1192,
+    "sentenceIndex": 6,
+    "probability": 0.977
+  },
+  {
+    "word": "shield",
+    "start": 39.72,
+    "end": 40.06,
+    "startFrame": 1192,
+    "endFrame": 1202,
+    "sentenceIndex": 6,
+    "probability": 0.998
+  },
+  {
+    "word": "against",
+    "start": 40.06,
+    "end": 40.4,
+    "startFrame": 1202,
+    "endFrame": 1212,
+    "sentenceIndex": 7,
+    "probability": 0.993
+  },
+  {
+    "word": "standard",
+    "start": 40.4,
+    "end": 40.84,
+    "startFrame": 1212,
+    "endFrame": 1225,
+    "sentenceIndex": 7,
+    "probability": 0.979
+  },
+  {
+    "word": "shark",
+    "start": 40.84,
+    "end": 41.16,
+    "startFrame": 1225,
+    "endFrame": 1235,
+    "sentenceIndex": 7,
+    "probability": 0.989
+  },
+  {
+    "word": "teeth.",
+    "start": 41.16,
+    "end": 41.5,
+    "startFrame": 1235,
+    "endFrame": 1245,
+    "sentenceIndex": 7,
+    "probability": 0.993
+  },
+  {
+    "word": "However,",
+    "start": 42.5,
+    "end": 43.02,
+    "startFrame": 1275,
+    "endFrame": 1291,
+    "sentenceIndex": 7,
+    "probability": 0.994
+  },
+  {
+    "word": "the",
+    "start": 43.38,
+    "end": 43.46,
+    "startFrame": 1301,
+    "endFrame": 1304,
+    "sentenceIndex": 7,
+    "probability": 0.996
+  },
+  {
+    "word": "great",
+    "start": 43.46,
+    "end": 43.7,
+    "startFrame": 1304,
+    "endFrame": 1311,
+    "sentenceIndex": 7,
+    "probability": 0.873
+  },
+  {
+    "word": "white",
+    "start": 43.7,
+    "end": 43.98,
+    "startFrame": 1311,
+    "endFrame": 1319,
+    "sentenceIndex": 7,
+    "probability": 0.985
+  },
+  {
+    "word": "possesses",
+    "start": 43.98,
+    "end": 44.6,
+    "startFrame": 1319,
+    "endFrame": 1338,
+    "sentenceIndex": 7,
+    "probability": 0.954
+  },
+  {
+    "word": "warm",
+    "start": 44.6,
+    "end": 44.86,
+    "startFrame": 1338,
+    "endFrame": 1346,
+    "sentenceIndex": 7,
+    "probability": 0.983
+  },
+  {
+    "word": "blooded",
+    "start": 44.86,
+    "end": 45.32,
+    "startFrame": 1346,
+    "endFrame": 1360,
+    "sentenceIndex": 7,
+    "probability": 0.788
+  },
+  {
+    "word": "endothermy,",
+    "start": 45.32,
+    "end": 45.94,
+    "startFrame": 1360,
+    "endFrame": 1378,
+    "sentenceIndex": 7,
+    "probability": 0.766
+  },
+  {
+    "word": "blistering",
+    "start": 46.38,
+    "end": 46.82,
+    "startFrame": 1391,
+    "endFrame": 1405,
+    "sentenceIndex": 8,
+    "probability": 0.995
+  },
+  {
+    "word": "burst",
+    "start": 46.82,
+    "end": 47.06,
+    "startFrame": 1405,
+    "endFrame": 1412,
+    "sentenceIndex": 8,
+    "probability": 0.977
+  },
+  {
+    "word": "speed,",
+    "start": 47.06,
+    "end": 47.46,
+    "startFrame": 1412,
+    "endFrame": 1424,
+    "sentenceIndex": 8,
+    "probability": 0.991
+  },
+  {
+    "word": "and",
+    "start": 47.88,
+    "end": 48.02,
+    "startFrame": 1436,
+    "endFrame": 1441,
+    "sentenceIndex": 8,
+    "probability": 0.998
+  },
+  {
+    "word": "the",
+    "start": 48.02,
+    "end": 48.16,
+    "startFrame": 1441,
+    "endFrame": 1445,
+    "sentenceIndex": 8,
+    "probability": 0.995
+  },
+  {
+    "word": "agility",
+    "start": 48.16,
+    "end": 48.5,
+    "startFrame": 1445,
+    "endFrame": 1455,
+    "sentenceIndex": 8,
+    "probability": 0.993
+  },
+  {
+    "word": "to",
+    "start": 48.5,
+    "end": 48.8,
+    "startFrame": 1455,
+    "endFrame": 1464,
+    "sentenceIndex": 8,
+    "probability": 0.999
+  },
+  {
+    "word": "dive",
+    "start": 48.8,
+    "end": 49.1,
+    "startFrame": 1464,
+    "endFrame": 1473,
+    "sentenceIndex": 8,
+    "probability": 0.986
+  },
+  {
+    "word": "into",
+    "start": 49.1,
+    "end": 49.34,
+    "startFrame": 1473,
+    "endFrame": 1480,
+    "sentenceIndex": 8,
+    "probability": 0.991
+  },
+  {
+    "word": "deep",
+    "start": 49.34,
+    "end": 49.6,
+    "startFrame": 1480,
+    "endFrame": 1488,
+    "sentenceIndex": 8,
+    "probability": 0.998
+  },
+  {
+    "word": "pelagic",
+    "start": 49.6,
+    "end": 50.18,
+    "startFrame": 1488,
+    "endFrame": 1505,
+    "sentenceIndex": 8,
+    "probability": 0.684
+  },
+  {
+    "word": "sanctuaries.",
+    "start": 50.18,
+    "end": 50.88,
+    "startFrame": 1505,
+    "endFrame": 1526,
+    "sentenceIndex": 8,
+    "probability": 0.997
+  },
+  {
+    "word": "In",
+    "start": 51.52,
+    "end": 52.12,
+    "startFrame": 1546,
+    "endFrame": 1564,
+    "sentenceIndex": 9,
+    "probability": 0.617
+  },
+  {
+    "word": "a",
+    "start": 52.12,
+    "end": 52.22,
+    "startFrame": 1564,
+    "endFrame": 1567,
+    "sentenceIndex": 9,
+    "probability": 0.991
+  },
+  {
+    "word": "direct",
+    "start": 52.22,
+    "end": 52.48,
+    "startFrame": 1567,
+    "endFrame": 1574,
+    "sentenceIndex": 9,
+    "probability": 0.991
+  },
+  {
+    "word": "bite",
+    "start": 52.48,
+    "end": 52.8,
+    "startFrame": 1574,
+    "endFrame": 1584,
+    "sentenceIndex": 9,
+    "probability": 0.777
+  },
+  {
+    "word": "for",
+    "start": 52.8,
+    "end": 53.06,
+    "startFrame": 1584,
+    "endFrame": 1592,
+    "sentenceIndex": 9,
+    "probability": 0.972
+  },
+  {
+    "word": "bite",
+    "start": 53.06,
+    "end": 53.28,
+    "startFrame": 1592,
+    "endFrame": 1598,
+    "sentenceIndex": 9,
+    "probability": 0.996
+  },
+  {
+    "word": "clash,",
+    "start": 53.28,
+    "end": 53.64,
+    "startFrame": 1598,
+    "endFrame": 1609,
+    "sentenceIndex": 9,
+    "probability": 0.905
+  },
+  {
+    "word": "the",
+    "start": 54.1,
+    "end": 54.2,
+    "startFrame": 1623,
+    "endFrame": 1626,
+    "sentenceIndex": 9,
+    "probability": 0.994
+  },
+  {
+    "word": "shark",
+    "start": 54.2,
+    "end": 54.48,
+    "startFrame": 1626,
+    "endFrame": 1634,
+    "sentenceIndex": 9,
+    "probability": 0.966
+  },
+  {
+    "word": "would",
+    "start": 54.48,
+    "end": 54.72,
+    "startFrame": 1634,
+    "endFrame": 1642,
+    "sentenceIndex": 9,
+    "probability": 0.996
+  },
+  {
+    "word": "perish.",
+    "start": 54.72,
+    "end": 55.22,
+    "startFrame": 1642,
+    "endFrame": 1657,
+    "sentenceIndex": 9,
+    "probability": 0.985
+  },
+  {
+    "word": "But",
+    "start": 55.88,
+    "end": 56.4,
+    "startFrame": 1676,
+    "endFrame": 1692,
+    "sentenceIndex": 10,
+    "probability": 0.969
+  },
+  {
+    "word": "by",
+    "start": 56.4,
+    "end": 56.6,
+    "startFrame": 1692,
+    "endFrame": 1698,
+    "sentenceIndex": 10,
+    "probability": 0.985
+  },
+  {
+    "word": "out",
+    "start": 56.6,
+    "end": 56.88,
+    "startFrame": 1698,
+    "endFrame": 1706,
+    "sentenceIndex": 10,
+    "probability": 0.935
+  },
+  {
+    "word": "swimming",
+    "start": 56.88,
+    "end": 57.12,
+    "startFrame": 1706,
+    "endFrame": 1714,
+    "sentenceIndex": 10,
+    "probability": 0.605
+  },
+  {
+    "word": "and",
+    "start": 57.12,
+    "end": 57.4,
+    "startFrame": 1714,
+    "endFrame": 1722,
+    "sentenceIndex": 10,
+    "probability": 0.994
+  },
+  {
+    "word": "avoiding",
+    "start": 57.4,
+    "end": 57.72,
+    "startFrame": 1722,
+    "endFrame": 1732,
+    "sentenceIndex": 10,
+    "probability": 0.995
+  },
+  {
+    "word": "the",
+    "start": 57.72,
+    "end": 57.94,
+    "startFrame": 1732,
+    "endFrame": 1738,
+    "sentenceIndex": 10,
+    "probability": 0.986
+  },
+  {
+    "word": "clumsy",
+    "start": 57.94,
+    "end": 58.3,
+    "startFrame": 1738,
+    "endFrame": 1749,
+    "sentenceIndex": 10,
+    "probability": 0.957
+  },
+  {
+    "word": "armor",
+    "start": 58.3,
+    "end": 58.66,
+    "startFrame": 1749,
+    "endFrame": 1760,
+    "sentenceIndex": 10,
+    "probability": 0.839
+  },
+  {
+    "word": "titan,",
+    "start": 58.66,
+    "end": 59.18,
+    "startFrame": 1760,
+    "endFrame": 1775,
+    "sentenceIndex": 10,
+    "probability": 0.655
+  },
+  {
+    "word": "the",
+    "start": 59.52,
+    "end": 59.6,
+    "startFrame": 1786,
+    "endFrame": 1788,
+    "sentenceIndex": 10,
+    "probability": 0.976
+  },
+  {
+    "word": "verdict",
+    "start": 59.6,
+    "end": 59.86,
+    "startFrame": 1788,
+    "endFrame": 1796,
+    "sentenceIndex": 10,
+    "probability": 0.975
+  },
+  {
+    "word": "is",
+    "start": 59.86,
+    "end": 60.14,
+    "startFrame": 1796,
+    "endFrame": 1804,
+    "sentenceIndex": 10,
+    "probability": 0.998
+  },
+  {
+    "word": "clear,",
+    "start": 60.14,
+    "end": 60.46,
+    "startFrame": 1804,
+    "endFrame": 1814,
+    "sentenceIndex": 10,
+    "probability": 0.997
+  },
+  {
+    "word": "the",
+    "start": 60.86,
+    "end": 60.98,
+    "startFrame": 1826,
+    "endFrame": 1829,
+    "sentenceIndex": 11,
+    "probability": 0.973
+  },
+  {
+    "word": "great",
+    "start": 60.98,
+    "end": 61.26,
+    "startFrame": 1829,
+    "endFrame": 1838,
+    "sentenceIndex": 11,
+    "probability": 0.929
+  },
+  {
+    "word": "white",
+    "start": 61.26,
+    "end": 61.56,
+    "startFrame": 1838,
+    "endFrame": 1847,
+    "sentenceIndex": 11,
+    "probability": 0.96
+  },
+  {
+    "word": "narrowly",
+    "start": 61.56,
+    "end": 62.08,
+    "startFrame": 1847,
+    "endFrame": 1862,
+    "sentenceIndex": 11,
+    "probability": 0.916
+  },
+  {
+    "word": "survives.",
+    "start": 62.08,
+    "end": 62.54,
+    "startFrame": 1862,
+    "endFrame": 1876,
+    "sentenceIndex": 11,
+    "probability": 0.997
+  }
+]
