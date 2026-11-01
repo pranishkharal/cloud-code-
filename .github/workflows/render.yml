@@ -78,6 +78,9 @@ jobs:
       - name: Clean install npm dependencies
         run: npm ci
 
+      - name: Validate all required images, audio, and font assets exist
+        run: node scripts/check-assets.js
+
       - name: Create output directory
         run: mkdir -p out
 
@@ -120,6 +123,9 @@ jobs:
 
       - name: Clean install npm dependencies
         run: npm ci
+
+      - name: Validate all assets exist before audio rendering
+        run: node scripts/check-assets.js
 
       - name: Create working directory
         run: mkdir -p out chunks

@@ -2,14 +2,20 @@
 node_modules/
 package-lock.json.bak
 
-# Build / Output videos and stills
+# Build / Output videos
 out/
 dist/
+
+# Ignore media generated in root, but KEEP everything inside public/
 *.mp4
 *.webm
 *.png
 *.jpg
 *.wav
+
+# Explicitly UNIGNORE all assets inside public/
+!public/
+!public/**
 
 # Remotion cache & temporary files
 .remotion/
